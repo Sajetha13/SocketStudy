@@ -55,8 +55,8 @@ Socket programming finds applications in various domains, including web developm
 
 ## Program:
 
-#### Developed By: Visalan H
-#### Register Number: 212223240183
+#### Developed By: S Sajetha
+#### Register Number: 212223100049
 
 ### Server:
 
